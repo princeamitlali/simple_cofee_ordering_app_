@@ -6,4 +6,5 @@ This application is a simple cofee ordering app that is made to demonstrate the 
 
 ### screenshots
 ![first_img](https://github.com/princeamitlali/simple_cofee_ordering_app_/blob/master/img/Screenshot_2020-05-18-07-27-04-79_dc35e59e3965c6e4b1ba6c9b13e1311e.png) 
-
+![second_img](https://github.com/princeamitlali/simple_cofee_ordering_app_/blob/master/img/Screenshot_2020-05-18-07-27-19-06_dc35e59e3965c6e4b1ba6c9b13e1311e.png)
+![third_img](https://github.com/princeamitlali/simple_cofee_ordering_app_/blob/master/img/Screenshot_2020-05-18-07-28-34-02.png)
